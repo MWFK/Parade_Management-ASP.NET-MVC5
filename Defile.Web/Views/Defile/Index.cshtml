@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Defile.Web.Models.DefileViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DateEvennement)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Duree)
+        </th>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.StylisteName)
+        </th>
+        <th></th>
+    </tr>
+
+@if (Model != null)
+{
+    foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateEvennement)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Duree)
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.StylisteName)
+        </td>
+        <td>
+            @Html.ActionLink("Affecter des mannequins", "Affecter", new { id=item.Defilecode}) |
+            
+        </td>
+    </tr>
+    }
+}
+</table>

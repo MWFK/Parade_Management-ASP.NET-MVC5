@@ -1,0 +1,12 @@
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\Defile.Data.dll.config
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\Defile.Data.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\Defile.Data.pdb
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\Defile.Domaine.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\EntityFramework.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\Defile.Domaine.pdb
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\EntityFramework.xml
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\obj\Debug\Defile.Data.csprojResolveAssemblyReference.cache
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\obj\Debug\Defile.Data.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Data\obj\Debug\Defile.Data.pdb

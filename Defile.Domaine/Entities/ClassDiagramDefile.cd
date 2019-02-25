@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Defile.Domaine.Entities.LeDefile">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <Members>
+      <Property Name="Affectations" Hidden="true" />
+      <Property Name="Articles" Hidden="true" />
+      <Property Name="StylisteModeliste" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAIAQICgEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Entities\LeDefile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defile.Domaine.Entities.StylisteModeliste">
+    <Position X="7.5" Y="3" Width="2.25" />
+    <Members>
+      <Property Name="Defiles" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAQAAAAAAACAAAAAAAKAAAAAAAAA=</HashCode>
+      <FileName>Entities\StylisteModeliste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defile.Domaine.Entities.Mannequin">
+    <Position X="1.25" Y="0.5" Width="2.25" />
+    <Members>
+      <Property Name="Affectations" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAkAAAAAEAAAAAAAAAIAAAAAAAAACAAAEA=</HashCode>
+      <FileName>Entities\Mannequin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defile.Domaine.Entities.Article">
+    <Position X="7.5" Y="0.5" Width="2.25" />
+    <Members>
+      <Property Name="Defile" Hidden="true" />
+      <Property Name="DefileId" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAgIAAAAAAAAAAgCAAAAAAAUAAAAAEAAAAA=</HashCode>
+      <FileName>Entities\Article.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Defile.Domaine.Entities.Affectation">
+    <Position X="4" Y="3.25" Width="2.25" />
+    <Members>
+      <Property Name="Defile" Hidden="true" />
+      <Property Name="Mannequin" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAABAAAAAAAAAAAAAAAQAAAAAAAAgAA=</HashCode>
+      <FileName>Entities\Affectation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Defile.Domaine.Entities.Etat">
+    <Position X="1.5" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAAAAAIAAAA=</HashCode>
+      <FileName>Entities\Affectation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

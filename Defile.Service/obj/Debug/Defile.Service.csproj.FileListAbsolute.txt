@@ -1,0 +1,13 @@
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\Defile.Service.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\Defile.Service.pdb
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\Defile.Data.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\Defile.Domaine.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\EntityFramework.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\Defile.Data.pdb
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\Defile.Domaine.pdb
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\EntityFramework.xml
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\obj\Debug\Defile.Service.csprojResolveAssemblyReference.cache
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\obj\Debug\Defile.Service.dll
+c:\users\zeineb\documents\visual studio 2015\Projects\ExamenDefile\Defile.Service\obj\Debug\Defile.Service.pdb
+C:\Users\zeineb\Documents\Visual Studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\Service.Pattern.dll
+C:\Users\zeineb\Documents\Visual Studio 2015\Projects\ExamenDefile\Defile.Service\bin\Debug\Service.Pattern.pdb
